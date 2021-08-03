@@ -7,5 +7,5 @@ About Me:
 - 👯 I’m looking to collaborate on Go or C++ Projects 
 - 💬 Ask me about 5g,C++/Programming ,Marvel Movies,Popular Sitcoms,Cricket,Functional Medicine
 - 📫 How to reach me: nikhilreddymara@gmail.com
-- ⚡ Fun fact: Tomato is a fruit
+- ⚡ Fun fact: If I could have any superpower, it would heal all diseases that Humans Suffer
 
