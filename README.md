@@ -5,7 +5,7 @@ About Me:
 - 🔭 I’m a Software Engineer(on career break)
 - 👯 I’m looking to collaborate on software projects written in Go or C++
 - 💬 Ask me about 5g, C++ and Programming,Cool Tech,Marvel Movies,Telugu Movies,Popular Sitcoms,Cricket,Functional Medicine
-- 📫 How to reach me: nikhilreddymara@gmail.com [![Twitter][twitter-badge]][Twitter] [![linkedin][linkedin-badge]][linkedin]
+- 📫 How to reach me: nikhilreddymara@gmail.com [![linkedin][linkedin-badge]][linkedin] [![Twitter][twitter-badge]][Twitter]
 
 
 
