@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🔭 I’m a Software Engineer(_on career break_)
+- 🔭 I’m a Software Consultant
  
 - 👯 I’m looking to collaborate on software projects written in Go or C++
  
